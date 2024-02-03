@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: particle-propagation
+Version: 0.1.0
+Summary: Module for particle propagation at BESSY II
+Home-page: UNKNOWN
+Author: Alexander Schütt
+Author-email: alexander.schuett@helmholtz-berlin.de
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Physics

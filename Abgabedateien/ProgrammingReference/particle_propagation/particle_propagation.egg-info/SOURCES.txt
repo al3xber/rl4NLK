@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+particle_propagation/__init__.py
+particle_propagation/particle_propagation-Copy1.py
+particle_propagation/particle_propagation-Copy2.py
+particle_propagation/particle_propagation.py
+particle_propagation/testing_particle_propagation.py
+particle_propagation.egg-info/PKG-INFO
+particle_propagation.egg-info/SOURCES.txt
+particle_propagation.egg-info/dependency_links.txt
+particle_propagation.egg-info/top_level.txt
